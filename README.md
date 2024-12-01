@@ -1,4 +1,4 @@
-[![Cover Image Generator](https://github.com/PJijin/Cover-Image-Generator/blob/master/preview.png?raw=true 'Cover Image Generator')]()
+[![Cover Image Generator](https://github.com/ahmedraza-pro/ahmedraza-pro/blob/main/cover_image.png?raw=true 'Cover Image Generator')]()
 
 <h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
 <h3 align="center">A passionate full-stack developer from Karachi</h3>
